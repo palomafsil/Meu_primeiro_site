@@ -1,0 +1,35 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(30, 180, 180);
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    color: rgb(159, 32, 91);
+    font-size: 48px;
+}
+
+h2 {
+    color: rgb(132, 75, 132);
+    font-size: 30px;
+    padding-top: 35px;
+}
+
+h3{
+    color: rgb(132, 75, 132);
+    padding-left: 28    px;
+    font-size: 20px;
+}
+
+p {
+    color: rgb(163, 12, 110);
+    padding-left: 30px;
+    font-size: 18px;
+}
